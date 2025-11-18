@@ -14,7 +14,7 @@ A complete pipeline including audio data ingestion, time-domain visualization, f
 
 ## Notebook
 
-📎 **Kaggle Notebook**: [(https://www.kaggle.com/code/phucduck/speech-to-text)](https://www.kaggle.com/code/phucduck/speech-to-text)]
+📎 **Kaggle Notebook**: [(https://www.kaggle.com/code/phucduck/speech-to-text)](https://www.kaggle.com/code/phucduck/speech-to-text)
 
 ## Project Workflow
 
